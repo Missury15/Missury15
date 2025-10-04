@@ -1,3 +1,6 @@
-- 👋 Hi, I’m @Missury15
-- 👀 I’m interested in Game development 
-- 🌱 I’m currently learning Luau
+- 👋 Missury15 here
+- 👨‍💻 C# Developer
+- 👾 uploading my scripts here just              
+     4 fun
+- 🎮 Hoping i will sometime make an 
+     video game 😄
