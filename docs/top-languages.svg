@@ -23,9 +23,9 @@
   <text class="label" x="68" y="167">Python</text>
 
   <g transform="translate(345 112)">
-    <circle r="48" fill="none" stroke="#2ea043" stroke-width="22"/>
-    <circle r="48" fill="none" stroke="#8957e5" stroke-width="22" stroke-dasharray="75 227" stroke-dashoffset="-227" transform="rotate(-90)"/>
-    <circle r="48" fill="none" stroke="#f97316" stroke-width="22" stroke-dasharray="45 257" stroke-dashoffset="-151" transform="rotate(-90)"/>
+    <circle r="48" fill="none" stroke="#8957e5" stroke-width="22" stroke-dasharray="75 227" stroke-dashoffset="0" transform="rotate(-90)"/>
+    <circle r="48" fill="none" stroke="#2ea043" stroke-width="22" stroke-dasharray="181 121" stroke-dashoffset="-75" transform="rotate(-90)"/>
+    <circle r="48" fill="none" stroke="#f97316" stroke-width="22" stroke-dasharray="45 257" stroke-dashoffset="-256" transform="rotate(-90)"/>
     <circle r="29" fill="#0d1117"/>
   </g>
 </svg>
