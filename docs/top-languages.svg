@@ -1,0 +1,31 @@
+<svg width="470" height="265" viewBox="0 0 470 265" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Top Languages</title>
+  <desc id="desc">Top programming languages with C# in green, CSS in purple, and Python in orange.</desc>
+  <style>
+    .card { fill: #0d1117; stroke: #30363d; }
+    .title { fill: #58a6ff; font: 600 30px Segoe UI, Arial, sans-serif; }
+    .label { fill: #c9d1d9; font: 17px Segoe UI, Arial, sans-serif; }
+    .muted { fill: #8b949e; font: 13px Segoe UI, Arial, sans-serif; }
+  </style>
+
+  <rect class="card" x="0.5" y="0.5" width="469" height="264" rx="8"/>
+
+  <text class="title" x="38" y="52">Top Languages</text>
+  <text class="muted" x="38" y="78">Most common languages across my public repositories</text>
+
+  <rect x="42" y="112" width="15" height="15" rx="2" fill="#2ea043"/>
+  <text class="label" x="68" y="126">C#</text>
+
+  <rect x="42" y="153" width="15" height="15" rx="2" fill="#8957e5"/>
+  <text class="label" x="68" y="167">CSS</text>
+
+  <rect x="42" y="194" width="15" height="15" rx="2" fill="#f97316"/>
+  <text class="label" x="68" y="208">Python</text>
+
+  <g transform="translate(315 150)">
+    <circle r="68" fill="none" stroke="#2ea043" stroke-width="30"/>
+    <circle r="68" fill="none" stroke="#8957e5" stroke-width="30" stroke-dasharray="107 320" stroke-dashoffset="-320" transform="rotate(-90)"/>
+    <circle r="68" fill="none" stroke="#f97316" stroke-width="30" stroke-dasharray="65 362" stroke-dashoffset="-213" transform="rotate(-90)"/>
+    <circle r="41" fill="#0d1117"/>
+  </g>
+</svg>

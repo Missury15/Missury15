@@ -41,8 +41,6 @@ I also keep smaller practice projects on my profile, including number games, cal
 
 ![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Missury15&theme=github_dark)
 
-![Repositories by language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Missury15&theme=github_dark)
-![Most used commit languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Missury15&theme=github_dark)
+![Top languages](docs/top-languages.svg)
 
 ![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Missury15&theme=github_dark)
-![Productive time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Missury15&theme=github_dark&utcOffset=1)
