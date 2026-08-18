@@ -7,14 +7,16 @@
     .label { fill: #8b949e; font: 18px Segoe UI, Arial, sans-serif; }
     .small { fill: #79c0ff; font: 12px Segoe UI, Arial, sans-serif; }
     .axis { stroke: #8b949e; stroke-width: 1.5; }
+    .grid { stroke: #30363d; stroke-width: 1; }
     .line { stroke: #2ea043; stroke-width: 2; }
+    .point { fill: #2ea043; }
   </style>
 
   <rect class="card" x="0.5" y="0.5" width="949" height="264" rx="8"/>
 
   <text class="name" x="40" y="55">Missury15</text>
 
-  <text class="label" x="72" y="108">0 Contributions on GitHub</text>
+  <text class="label" x="72" y="108">27 Commits in the last year</text>
   <text class="label" x="72" y="146">8 Public Repos</text>
   <text class="label" x="72" y="184">Joined GitHub 1 year ago</text>
   <text class="label" x="72" y="222">Czech Republic</text>
@@ -31,11 +33,18 @@
   <rect x="42" y="207" width="17" height="19" rx="2" stroke="#8b949e" stroke-width="2"/>
   <path d="M47 212h2M53 212h2M47 217h2M53 217h2M47 222h8" stroke="#8b949e" stroke-width="2"/>
 
-  <text class="small" x="705" y="66">contributions in the last year</text>
+  <text class="small" x="735" y="66">commits in the last year</text>
   <path class="axis" d="M360 210H875"/>
   <path class="axis" d="M875 65V210"/>
-  <path class="line" d="M360 140H875"/>
-  <text class="small" x="884" y="145">0</text>
+  <path class="grid" d="M360 80H875"/>
+  <path class="line" d="M360 210 L403 80 L446 163 L489 175 L532 198 L575 210 L618 210 L661 210 L703 210 L746 210 L789 210 L832 210 L875 115"/>
+  <circle class="point" cx="403" cy="80" r="3"/>
+  <circle class="point" cx="446" cy="163" r="3"/>
+  <circle class="point" cx="489" cy="175" r="3"/>
+  <circle class="point" cx="532" cy="198" r="3"/>
+  <circle class="point" cx="875" cy="115" r="3"/>
+  <text class="small" x="884" y="84">11</text>
+  <text class="small" x="884" y="214">0</text>
 
   <text class="small" x="342" y="230">25/08</text>
   <text class="small" x="425" y="230">25/10</text>
