@@ -39,7 +39,7 @@ I also keep smaller practice projects on my profile, including number games, cal
 
 ## GitHub stats
 
-![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Missury15&theme=github_dark)
+<img src="docs/profile-details.svg" alt="Profile details" width="950" />
 
 <table>
   <tr>
@@ -47,7 +47,7 @@ I also keep smaller practice projects on my profile, including number games, cal
       <img src="docs/top-languages.svg" alt="Top languages" width="470" />
     </td>
     <td valign="top">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Missury15&theme=github_dark" alt="GitHub stats" width="470" />
+      <img src="docs/stats.svg" alt="GitHub stats" width="470" />
     </td>
   </tr>
 </table>

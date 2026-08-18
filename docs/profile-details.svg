@@ -1,0 +1,49 @@
+<svg width="950" height="265" viewBox="0 0 950 265" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">GitHub Profile Details</title>
+  <desc id="desc">Editable profile summary card for Missury15.</desc>
+  <style>
+    .card { fill: #0d1117; stroke: #30363d; }
+    .name { fill: #58a6ff; font: 600 30px Segoe UI, Arial, sans-serif; }
+    .label { fill: #8b949e; font: 18px Segoe UI, Arial, sans-serif; }
+    .small { fill: #79c0ff; font: 12px Segoe UI, Arial, sans-serif; }
+    .axis { stroke: #8b949e; stroke-width: 1.5; }
+    .line { stroke: #2ea043; stroke-width: 2; }
+  </style>
+
+  <rect class="card" x="0.5" y="0.5" width="949" height="264" rx="8"/>
+
+  <text class="name" x="40" y="55">Missury15</text>
+
+  <text class="label" x="72" y="108">0 Contributions on GitHub</text>
+  <text class="label" x="72" y="146">8 Public Repos</text>
+  <text class="label" x="72" y="184">Joined GitHub 1 year ago</text>
+  <text class="label" x="72" y="222">Czech Republic</text>
+
+  <circle cx="50" cy="102" r="10" stroke="#8b949e" stroke-width="2"/>
+  <path d="M45 102h10M50 97v10" stroke="#8b949e" stroke-width="2"/>
+
+  <rect x="42" y="132" width="16" height="20" rx="2" stroke="#8b949e" stroke-width="2"/>
+  <path d="M46 152h8" stroke="#8b949e" stroke-width="2"/>
+
+  <circle cx="50" cy="178" r="10" stroke="#8b949e" stroke-width="2"/>
+  <path d="M50 172v7l5 3" stroke="#8b949e" stroke-width="2"/>
+
+  <rect x="42" y="207" width="17" height="19" rx="2" stroke="#8b949e" stroke-width="2"/>
+  <path d="M47 212h2M53 212h2M47 217h2M53 217h2M47 222h8" stroke="#8b949e" stroke-width="2"/>
+
+  <text class="small" x="705" y="66">contributions in the last year</text>
+  <path class="axis" d="M360 210H875"/>
+  <path class="axis" d="M875 65V210"/>
+  <path class="line" d="M360 140H875"/>
+  <text class="small" x="884" y="145">0</text>
+
+  <text class="small" x="342" y="230">25/08</text>
+  <text class="small" x="425" y="230">25/10</text>
+  <text class="small" x="510" y="230">25/12</text>
+  <text class="small" x="595" y="230">26/02</text>
+  <text class="small" x="680" y="230">26/04</text>
+  <text class="small" x="765" y="230">26/06</text>
+  <text class="small" x="850" y="230">26/08</text>
+
+  <path class="axis" d="M360 210V218M445 210V218M530 210V218M615 210V218M700 210V218M785 210V218M870 210V218"/>
+</svg>
