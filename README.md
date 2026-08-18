@@ -1,6 +1,6 @@
 # Hi, I'm Tadeas
 
-I am a student developer focused on C#, .NET, and practical programming projects. I use GitHub to track my progress, improve my code quality, and build a portfolio of small but useful applications.
+I am a student developer focused on C#, .NET, and practical programming projects.
 
 ## What I am working on
 
