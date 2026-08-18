@@ -32,10 +32,8 @@ I also keep smaller practice projects on my profile, including number games, cal
 
 ## Current goals
 
-- Write cleaner and more readable C# code
 - Build projects that are useful enough to show in a portfolio
 - Learn more about software architecture step by step
-- Keep improving my README files, commits, and project presentation
 
 ## GitHub stats
 
