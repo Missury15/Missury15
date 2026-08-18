@@ -41,6 +41,7 @@ I also keep smaller practice projects on my profile, including number games, cal
 
 ![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Missury15&theme=github_dark)
 
-![Top languages](docs/top-languages.svg)
-
-![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Missury15&theme=github_dark)
+<p>
+  <img src="docs/top-languages.svg" alt="Top languages" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Missury15&theme=github_dark" alt="GitHub stats" width="49%" />
+</p>
